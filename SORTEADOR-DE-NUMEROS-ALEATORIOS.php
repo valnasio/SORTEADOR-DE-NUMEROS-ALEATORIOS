@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Formulário PHP</title>
+    <title>Dice Of Uncertain Destinies</title>
     <style>
         body {
             
@@ -102,7 +102,7 @@
 </head>
 
 <body>
-    <h1>Drawing Uncertain Fates</h1>
+    <h1>Dice Of Uncertain Destinies</h1>
     <img src="https://i0.wp.com/imagensemoldes.com.br/wp-content/uploads/2020/05/Figura-Dado-PNG.png?fit=1074%2C1098&ssl=1" alt="Imagem" class="image">
     <div class="container">
         <form class="form" method="post" action="index.php">
